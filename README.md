@@ -7,7 +7,7 @@ Those images is designed with [xmind tool](http://www.xmind.net)
 
 ![alt text](https://raw.githubusercontent.com/gitvani/aws-mindmap/master/images/AWS%20Storage.jpg)
 
-![alt text](https://raw.githubusercontent.com/gitvani/aws-mindmap/master/images/AWS%20Compute.jpg)
+![alt text](https://raw.githubusercontent.com/tunglt-0058/aws-mindmap/master/images/AWS%20Compute.png)
 
 ![alt text](https://raw.githubusercontent.com/gitvani/aws-mindmap/master/images/AWS%20Database.jpg)
 
